@@ -243,7 +243,7 @@ body {
     }
     @media screen and (max-width: 500px) {
         .main {
-            flex-direction: column;
+            flex-direction: column-reverse;
             padding: 0;
         }
         .sidebar {
