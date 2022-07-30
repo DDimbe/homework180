@@ -244,13 +244,12 @@ body {
     @media screen and (max-width: 500px) {
         .main {
             flex-direction: column;
+            padding: 0;
         }
         .sidebar {
             width: 98%;
-            font: 180px;
-            padding: 0;
         }
         .photo {
-            width: 500px;
+            width: 100%;
         }
     }
