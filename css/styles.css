@@ -244,7 +244,7 @@ body {
     @media screen and (max-width: 500px) {
         .main {
             flex-direction: column-reverse;
-            font-size: 14px;
+            font-size: 140px;
         }
         .sidebar {
             width: 100%;
