@@ -271,6 +271,7 @@ body {
         }
         .photo {
             width: 100%;
+            margin-bottom: 5px;
         }
         .soft_skills_list,
         .tech_skills_list {
