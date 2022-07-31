@@ -272,14 +272,14 @@ body {
         .contact_type {
             padding: 0;
             margin-bottom: 5px;
-            font-size: 40px;
+            font-size: 33px;
         }
         .contact_link {
-            38px
+            font-size: 28px;
         }
         .tech_skills {
-            margin-left: 20px;
-            margin-right: 20px;
+            margin-top: 20px;
+            margin-bottom: 20px;
         }
         .soft_skills_list,
         .tech_skills_list,
