@@ -270,4 +270,11 @@ body {
         .work_list_item    {
             font-size: 18px;
         } 
+        .soft_skills_list,
+        .tech_skills_list {
+            font-size: 20px;
+        }
+        .sidebar_title {
+            font-size: 25px;
+        }
     }
