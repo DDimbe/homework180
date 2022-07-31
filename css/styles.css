@@ -277,6 +277,10 @@ body {
         .contact_link {
             38px
         }
+        .tech_skills {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
         .soft_skills_list,
         .tech_skills_list,
         .tech_skills_text,
