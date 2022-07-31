@@ -246,12 +246,7 @@ body {
             flex-direction: column-reverse;
             padding: 0;
         }
-        .sidebar {
-            width: 99%;
-        }
-        .photo {
-            width: 100%;
-        }
+        
         .information {
             display: flex;
             flex-direction: row;
@@ -270,6 +265,13 @@ body {
         .work_list_item    {
             font-size: 18px;
         } 
+        /* sidebar */
+        .sidebar {
+            width: 99%;
+        }
+        .photo {
+            width: 100%;
+        }
         .soft_skills_list,
         .tech_skills_list {
             font-size: 20px;
