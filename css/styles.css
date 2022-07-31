@@ -260,4 +260,8 @@ body {
         .projects {
             font-size: 150px;
         }
+        .about_description {
+            font-size: 50px;
+            width: 70%;
+        }
     }
