@@ -248,11 +248,16 @@ body {
         }
         .sidebar {
             width: 99%;
-            font-size: 14px;
         }
         .photo {
             width: 100%;
         }
-        
-
+        .contact_type {
+            padding: 0;
+            margin-bottom: 5px;
+            font-size: 14px;
+        }
+        .projects {
+            font-size: 150px;
+        }
     }
