@@ -248,11 +248,13 @@ body {
         }
         .sidebar {
             width: 99%;
-            display: flex;
-            flex-direction: row;
         }
         .photo {
             width: 100%;
+        }
+        .information {
+            display: flex;
+            flex-direction: row;
         }
         .contact_type {
             padding: 0;
@@ -266,6 +268,6 @@ body {
             width: 90%;
         }
         .work_list_item    {
-            font-size: 180px;
+            font-size: 18px;
         } 
     }
