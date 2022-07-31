@@ -265,5 +265,7 @@ body {
             font-size: 18px;
             width: 90%;
         }
-        
+        .work_list_item    {
+            font-size: 180px;
+        } 
     }
