@@ -251,11 +251,7 @@ body {
             display: flex;
             flex-direction: row;
         }
-        .contact_type {
-            padding: 0;
-            margin-bottom: 5px;
-            font-size: 14px;
-        }
+    
         .projects {
         }
         .about_description {
@@ -273,14 +269,22 @@ body {
             width: 100%;
             margin-bottom: 5px;
         }
+        .contact_type {
+            padding: 0;
+            margin-bottom: 5px;
+            font-size: 40px;
+        }
+        .contact_link {
+            38px
+        }
         .soft_skills_list,
-        .tech_skills_list {
+        .tech_skills_list,
+        .tech_skills_text,
+        .soft_skills_text {
             font-size: 40px;
         }
         .sidebar_title {
             font-size: 45px;
         }
-        .contact_link {
-            38px
-        }
+        
     }
