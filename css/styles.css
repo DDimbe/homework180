@@ -261,7 +261,7 @@ body {
         .work_list_item    {
             font-size: 18px;
         } 
-        /* sidebar */
+        /* sidebar media */
         .sidebar {
             width: 99%;
         }
@@ -271,10 +271,10 @@ body {
         }
         .contact_type {
             padding-top: 100px;
-            font-size: 33px;
+            font-size: 25px;
         }
         .contact_link {
-            font-size: 28px;
+            font-size: 25px;
         }
         .tech_skills {
             padding-left: 15px;
@@ -287,7 +287,7 @@ body {
             font-size: 40px;
         }
         .sidebar_title {
-            font-size: 45px;
+            font-size: 40px;
         }
         
     }
