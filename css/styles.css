@@ -264,11 +264,19 @@ body {
         .project_bracket,
         .project_link,
         .project_item {
-            font-size: 30px;
+            font-size: 20px;
         }
         .work_list_item    {
             font-size: 30px;
         } 
+        .work_position,
+        .organization,
+        .education_organization {
+            font-size: 35px;
+        }
+        .period {
+            font-size: 28px;
+        }
         /* sidebar media */
         .sidebar {
             width: 99%;
@@ -282,7 +290,7 @@ body {
             flex-direction: row;
         }
         .address_box {
-            margin-top: 20px;
+            padding-top: 20px;
         }
         .contact_type {
             
