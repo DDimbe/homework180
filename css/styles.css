@@ -271,6 +271,7 @@ body {
         }
         .contact_type {
             padding: 20px;
+            margin-top: 10px;
             font-size: 25px;
         }
         .contact_link {
