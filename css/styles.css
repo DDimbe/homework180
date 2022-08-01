@@ -266,9 +266,11 @@ body {
         .project_item {
             font-size: 20px;
         }
-        .project_list,
+        .project_list {
+            margin-left: 100px;
+        }
         .work_list {
-            margin-left: 50px;
+            margin-left: 47px;
         }
         .work_list_item    {
             font-size: 30px;
