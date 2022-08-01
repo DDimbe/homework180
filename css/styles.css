@@ -270,17 +270,13 @@ body {
             margin-bottom: 5px;
         }
         .contact_type {
-            padding: 0;
-            margin-top: 7px;
+            padding-top: 10px;
             font-size: 33px;
         }
         .contact_link {
             font-size: 28px;
         }
-        .tech_skills {
-            margin-top: 20px;
-            margin-bottom: 20px;
-        }
+        
         .soft_skills_list,
         .tech_skills_list,
         .tech_skills_text,
