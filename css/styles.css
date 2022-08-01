@@ -276,7 +276,10 @@ body {
         .contact_link {
             font-size: 28px;
         }
-        
+        .tech_skills {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
         .soft_skills_list,
         .tech_skills_list,
         .tech_skills_text,
