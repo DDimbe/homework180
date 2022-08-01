@@ -274,8 +274,11 @@ body {
         .education_organization {
             font-size: 35px;
         }
-        .period {
+        .education_position {
             font-size: 28px;
+        }
+        .period {
+            font-size: 23px;
         }
         /* sidebar media */
         .sidebar {
