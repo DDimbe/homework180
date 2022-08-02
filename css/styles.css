@@ -253,6 +253,7 @@ body {
             font-size: 50px;
         }
         .about_description {
+            line-height: 40px;
             font-size: 30px;
             width: 90%;
         }
@@ -265,6 +266,7 @@ body {
         .project_link,
         .project_item {
             font-size: 20px;
+            line-height: 30px;
         }
         .projects_list {
             margin-left: 45px;
